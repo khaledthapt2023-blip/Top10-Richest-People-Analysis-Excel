@@ -18,9 +18,13 @@ industries, net worth distribution, and gender representation.
 | Charts & Graphs | Data Visualization |
 
 ## 💡 Key Insights
-- Industry breakdown of the top 10 wealthiest individuals
-- Gender distribution analysis among billionaires
-- Net worth comparison across sectors
+- **Bernard Arnault** leads with the highest net worth at **$211K**
+- **Elon Musk** ranks 2nd at **$180K** net worth
+- **8 industries** represented across the Top 10 list
+- Industry breakdown: Automotive, Finance, Fashion, Energy & more
+- Gender distribution analysis: **Female vs Male** representation
+- Self-made vs inherited wealth: **TRUE vs FALSE** breakdown
+- Age distribution analyzed across **7 age groups** (30–100)
 
 ## 📁 Files
 | File | Description |
