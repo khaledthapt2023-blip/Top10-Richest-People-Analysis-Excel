@@ -29,3 +29,5 @@ industries, net worth distribution, and gender representation.
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/khaled-thapt-577252104/)
+## 📷 Dashboard Preview
+![Dashboard](dashboard_preview.png)
